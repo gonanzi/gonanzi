@@ -1,0 +1,4 @@
+File content successfully read:
+This is a test file content.
+
+File operation attempted.
